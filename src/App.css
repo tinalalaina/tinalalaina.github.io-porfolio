@@ -19,3 +19,7 @@ p {
 hello{
   background: rgb(221, 11, 11);
 }
+img{
+  weight:auto;
+  width-max:100%;
+}
